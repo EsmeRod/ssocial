@@ -1,0 +1,197 @@
+\\Mac\Home\Desktop\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.exe
+\\Mac\Home\Desktop\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.deps.json
+\\Mac\Home\Desktop\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.runtimeconfig.json
+\\Mac\Home\Desktop\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.dll
+\\Mac\Home\Desktop\ServicioSocial\bin\Debug\net6.0-windows\ref\ServicioSocial.dll
+\\Mac\Home\Desktop\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.pdb
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.Form1.resources
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfo.cs
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.dll
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ref\ServicioSocial.dll
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.pdb
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.genruntimeconfig.cache
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.Properties.Resources.resources
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.Form3.resources
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.inicio.resources
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.buscar.resources
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.Ingresar.resources
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.User.resources
+\\Mac\Home\Desktop\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.Bitacora.resources
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.exe
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.deps.json
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.runtimeconfig.json
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.dll
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.pdb
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.AssemblyReference.cache
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.Properties.Resources.resources
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.GenerateResource.cache
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfoInputs.cache
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfo.cs
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.CoreCompileInputs.cache
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.dll
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\refint\ServicioSocial.dll
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.pdb
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.genruntimeconfig.cache
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ref\ServicioSocial.dll
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.home.resources
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.documents.resources
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.history.resources
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.login.resources
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.main.resources
+C:\Users\arami\OneDrive\Escritorio\HS\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.users.resources
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.exe
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.deps.json
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.runtimeconfig.json
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.dll
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.pdb
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.AssemblyReference.cache
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.documents.resources
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.history.resources
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.home.resources
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.login.resources
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.main.resources
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.users.resources
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.Properties.Resources.resources
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.GenerateResource.cache
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfoInputs.cache
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfo.cs
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.CoreCompileInputs.cache
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.dll
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\refint\ServicioSocial.dll
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.pdb
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.genruntimeconfig.cache
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ref\ServicioSocial.dll
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.exe
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.deps.json
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.runtimeconfig.json
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.dll
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.pdb
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.AssemblyReference.cache
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.documents.resources
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.history.resources
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.home.resources
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.login.resources
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.main.resources
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.users.resources
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.Properties.Resources.resources
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.GenerateResource.cache
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfoInputs.cache
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfo.cs
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.CoreCompileInputs.cache
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.CopyComplete
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.dll
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\refint\ServicioSocial.dll
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.pdb
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.genruntimeconfig.cache
+C:\Users\navas\Downloads\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ref\ServicioSocial.dll
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\arami\OneDrive\Escritorio\HS\horasAlcaldia\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.CopyComplete
+C:\Proyecto de alcaldia\horas\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.exe
+C:\Proyecto de alcaldia\horas\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.deps.json
+C:\Proyecto de alcaldia\horas\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.runtimeconfig.json
+C:\Proyecto de alcaldia\horas\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.dll
+C:\Proyecto de alcaldia\horas\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.pdb
+C:\Proyecto de alcaldia\horas\ServicioSocial\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Proyecto de alcaldia\horas\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Proyecto de alcaldia\horas\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Proyecto de alcaldia\horas\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Proyecto de alcaldia\horas\ServicioSocial\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyecto de alcaldia\horas\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.AssemblyReference.cache
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.documents.resources
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.history.resources
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.home.resources
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.login.resources
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.main.resources
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.users.resources
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.Properties.Resources.resources
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.GenerateResource.cache
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfoInputs.cache
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfo.cs
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.CoreCompileInputs.cache
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.CopyComplete
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.dll
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\refint\ServicioSocial.dll
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.pdb
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.genruntimeconfig.cache
+C:\Proyecto de alcaldia\horas\ServicioSocial\obj\Debug\net6.0-windows\ref\ServicioSocial.dll
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.exe
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.deps.json
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.runtimeconfig.json
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.dll
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.pdb
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.AssemblyReference.cache
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.documents.resources
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.history.resources
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.home.resources
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.login.resources
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.main.resources
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.users.resources
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.Properties.Resources.resources
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.GenerateResource.cache
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfoInputs.cache
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfo.cs
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.CoreCompileInputs.cache
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.CopyComplete
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.dll
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\refint\ServicioSocial.dll
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.pdb
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.genruntimeconfig.cache
+C:\Users\navas\OneDrive - Universidad Don Bosco\Horas Sociales\HorasSociales\ServicioSocial\obj\Debug\net6.0-windows\ref\ServicioSocial.dll
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.exe
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.deps.json
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.runtimeconfig.json
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.dll
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\bin\Debug\net6.0-windows\ref\ServicioSocial.dll
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\bin\Debug\net6.0-windows\ServicioSocial.pdb
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.documents.resources
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.history.resources
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.home.resources
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.login.resources
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.main.resources
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.users.resources
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.Properties.Resources.resources
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.AssemblyInfo.cs
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.csproj.CopyComplete
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.dll
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ref\ServicioSocial.dll
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.pdb
+\\Mac\Home\Desktop\HorasSociales-1\ServicioSocial\obj\Debug\net6.0-windows\ServicioSocial.genruntimeconfig.cache

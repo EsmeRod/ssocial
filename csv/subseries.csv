@@ -1,0 +1,187 @@
+﻿id_subserie;id_serie;nombre_subserie;codigo_subserie
+1;1;Acuerdos;ACUE
+2;1;Administrativos;ADMI
+3;1;Asambleas ciudadanas;ASCI
+4;1;Asociaciones;ASOC
+5;1;Bienes de consumo;BICO
+6;1;Cabildo abierto;CAAB
+7;1;Civiles;CIVI
+8;1;Comités de desarrollo local;CODL
+9;1;Consulta popular;COPO
+10;1;Consulta vecinal y sectorial;COVS
+11;1;Cooperación internacional;COIN
+12;1;Cooperación Nacional;CONA
+13;1;Corte de Cuentas;COCU
+14;1;Externa;EXTE
+15;1;Hermanamientos;HERM
+16;1;Inmuebles;INMU
+17;1;Inmuebles rústicos;INRÚ
+18;1;Inmuebles urbanos;INUR
+19;1;Interna;INTE
+20;1;Laborales;LABO
+21;1;Muebles;MUEB
+22;1;Ordenanzas;ORDE
+23;1;Penales;PENA
+24;1;Reglamentos;REGL
+25;2;Concursos Públicos;CP
+26;2;Contratación directa;CTD
+27;2;Licitaciones públicas;LCTP
+28;2;Libre gestión;LBG
+29;2;Destrucción;DTR
+30;2;Donación;DNC
+31;2;Subasta;SBS
+32;2;Agua potable;AGPB
+33;2;Aire acondicionado;ACND
+34;2;Energía eléctrica;ENEL
+35;2;Jardinería;JRD
+36;2;Limpieza;LMPZ
+37;2;Seguridad;SRG
+38;2;Telefonía e internet;TLIE
+39;2;Transporte;TRSP
+40;2;Agua purificada;AGPD
+41;2;Combustible;CMB
+42;2;Salidas de almacén;SDA
+43;2;Inmuebles;INMB
+44;2;Muebles;MBL
+45;2;Bienes;BNS
+46;2;Suministros;SMTR
+47;2;Equipos de telecomunicación;ETLC
+48;2;Hardware;HRDW
+49;2;Actos y eventos oficiales;AEOF
+50;2;Seguimiento de medios;SDM
+51;2;Abiertos;ABRT
+52;2;Ascensos;ASCS
+53;2;Ética gubernamental;EGBT
+54;2;Género;GNR
+55;2;Seguridad y Salud Ocupacional;SSO
+56;2;Contrato;CRT
+57;2;Carrera Administrativa Municipal;CADM
+58;2;Administradora de Fondos de Pensiones (AFP);AFP
+59;2;Descuentos;DSC
+60;2;Impuesto sobre la renta;IMPR
+61;2;Instituto Nacional de Pensiones de los Empleados Públicos (INPEP);INPEP
+62;2;Instituto de Previsión Social de la Fuerza Armada (IPSFA);IPSFA
+63;2;Instituto Salvadoreño del Seguro Social (ISSS);ISSS
+64;2;Aguinaldo;AGNL
+65;2;Bonificaciones;BNFC
+66;2;Indemnizaciones por retiro voluntario;INRV
+67;2;Prestación económica por gastos funerarios;PREG
+68;2;Seguros privados;SPV
+69;2;Fianzas;FNZ
+70;3;Estado de situación financiera;ESF
+71;3;Estado de rendimiento económico;ERE
+72;3;Estado de ejecución presupuestaria;EJP
+73;3;Estado de flujo de efectivo;EFE
+74;3;Libro diario;LD
+75;3;Libro mayor;LM
+76;3;Impuestos directos;IMD
+77;3;Impuestos indirectos;IMI
+78;3;Contribuciones;CO
+79;3;Derechos y licencias;DL
+80;3;Tasas;TA
+81;3;Presupuesto de ingresos;PI
+82;3;Presupuesto de egresos;PE
+83;3;Control de cheques;CCH
+84;3;Chequeras;CH
+85;3;Extractos bancarios;EB
+86;3;Conciliaciones bancarias;CB
+87;3;Libro diario de ingresos;LDIS
+88;3;Libro de banco;LB
+89;3;Libro de especies municipales;LEM
+90;3;Fondos FODES;FFO
+91;3;Obligaciones por pagar;OPP
+92;3;Programación de ejecución presupuestaria (PEP);PEP
+93;3;Remuneraciones;RE
+94;4;Animales domésticos;AD
+95;4;Personas;PERS
+96;4;Expedientes de autorización de establecimientos comerciales, industriales, financieros y de servicios;EAEC
+97;4;Expedientes de autorización de loterías y rifas;EALR
+98;4;Expedientes de instalación de fábricas de licor;EAFL
+99;4;Expedientes de regulación de restaurantes, bares y clubes nocturnos;ERRB
+100;4;Difusión cultural;DC
+101;4;Promoción cultural;PC
+102;4;Agua potable;AP
+103;4;Alcantarillado;ALCA
+104;4;Alumbrado público;ALPU
+105;4;Cementerios;CEM
+106;4;Electrificación;ELEC
+107;4;Nomenclatura y señalización;NYS
+108;4;Parques y zonas verdes;PYZV
+109;4;Red vial;RV
+110;4;Vivienda;VV
+111;4;Ampliación;AMPL
+112;4;Demolición;DEMO
+113;4;Instalación;INST
+114;4;Remodelación;REMO
+115;4;Reparación;REPA
+116;4;Rotura de acera o pavimento;RDAP
+117;4;Lotificaciones;LOT
+118;4;Parcelaciones;PARC
+119;4;Uso del hogar;UDH
+120;4;Autorizaciones;AUTO
+121;4;Licencias de instalación;LDI
+122;4;Permisos;PERM
+123;4;Ferias de empleo;FDE
+124;4;Guarderías;GUAR
+125;4;Mesas sectoriales o distritales;MSOD
+126;4;Programas de equidad de género;PDEG
+127;4;Programas de fomento de valores;PDFV
+128;4;Empresas;EMPR
+129;4;Inmuebles;INMS
+130;4;Comerciales;COM
+131;4;Empresariales;EMPS
+132;4;Industriales;INDS
+133;4;Cartográficos;CART
+134;4;Catastrales;CATS
+135;4;Temáticos;TEMA
+136;4;Adopciones;ADOP
+137;4;Defunciones;DEF
+138;4;Divorcios;DV
+139;4;Matrimonios;MT
+140;4;Nacimientos;NAC
+141;4;Uniones no matrimoniales;UNM
+142;4;Inscripciones;INSC
+143;4;Casados;CASD
+144;4;Fallecidos;FALL
+145;4;Hijos ilegítimos;HI
+146;4;Hijos legítimos;HL
+147;4;Partidas de nacimiento;PDN
+148;4;Partidas de matrimonio;PDM
+149;4;Comunidad diferida;CD
+150;4;Participación en las ganancias;PELG
+151;4;Separación de bienes;SDB
+152;4;Reposición por corrección del nombre;PPCN
+153;4;Reposición por deterioro;RPD
+154;4;Reposición por extravío;RPE
+155;4;Traspaso por donación;TPD
+156;4;Traspaso por herencia;TPH
+157;4;Traspaso por venta;TPV
+158;4;Pajas de agua;PDA
+159;4;Títulos de pajas de agua;TPDA
+160;4;Bitácoras de aseo;BDA
+161;4;Contrato de recolección de desechos sólidos;CRDS
+162;4;Rellenos sanitarios;RS
+163;4;Actas de inspecciones en cementerios;AIC
+164;4;Inhumaciones;INH
+165;4;Exhumaciones;EXH
+166;4;Cadáveres;CAD
+167;4;Osarios;OSAR
+168;4;Refrendables;REFR
+169;4;Perpetuos;PERP
+170;4;Inventario de armamento y munición;IAM
+171;4;Nómina de agentes y personal de vigilancia;NAPV
+172;4;Libro de patrullas;LDP
+173;4;Sancionatorios;SANC
+174;4;Solución alternativa del conflicto;SADC
+175;4;Cartas de venta de ganado;CVG
+176;4;Cartas poder para venta de ganado;CPVG
+177;4;Ganado mayor;GMA
+178;4;Ganado menor;GME
+179;4;Numérica;NUM
+180;4;Especial;ESP
+181;4;Rutas locales;RL
+182;4;Terminales de pasajeros;TDP
+183;4;Transporte de carga;TDC
+184;4;Tiquetes de entrada;TDE
+185;4;Tiquetes de estacionamiento;TDES
+186;4;Tiquetes de salida;TDS

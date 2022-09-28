@@ -1,0 +1,171 @@
+﻿id_serie;id_subseccion;nombre_serie
+1;1;Actas del Concejo Municipal
+2;1;Actas de las Comisiones del Concejo Municipal
+3;1;Certificaciones de Secretaría Municipal
+4;1;Comunicaciones externas
+5;1;Dictámenes
+6;1;Expedientes de auditoría
+7;1;Expedientes de Convenios
+8;1;Expedientes de Donaciones recibidas
+9;1;Expedientes de Juicios
+10;1;Expedientes de Límites municipales
+11;1;Expedientes de participación ciudadana
+12;1;Expedientes de Títulos municipales
+13;1;Informes de comisiones municipales
+14;1;Memoria Anual de Labores
+15;1;Normas Municipales
+16;1;Planes de Desarrollo Local
+17;1;Planes institucionales Municipales
+18;1;Rendición de cuentas
+19;1;Resoluciones de nombramientos
+20;2;Expedientes de adquisiciones
+21;2;Expedientes de contrataciones
+22;2;Expedientes de descargo de bienes y suministros
+23;2;Expedientes de gestión de servicios generales
+24;2;Expedientes de gestión de suministros
+25;2;Expedientes de mantenimiento de bienes
+26;2;Inventarios
+27;2;Normativas de la administración de bienes, servicios y suministros
+28;2;Plan Anual de Compras
+29;3;Controles de seguridad informática
+30;3;Expedientes de administración de cuentas de usuario
+31;3;Expedientes de disposición documental
+32;3;Expedientes de mantenimiento de equipos informáticos
+33;3;Expedientes de productos comunicacionales
+34;3;Expedientes de proyectos de aplicativos de software
+35;3;Expedientes de publicidad municipal
+36;3;Expedientes de respaldo de datos
+37;3;Expedientes de solicitudes de datos personales
+38;3;Expedientes de solicitudes de información pública
+39;3;Expedientes de solicitudes de información oficiosa
+40;3;Índice de información reservada
+41;3;Instrumentos de control archivístico
+42;3;Instrumentos de descripción archivística
+43;3;Normativas en información y comunicación
+44;4;Actas de la Comisión Municipal de la Carrera Administrativa
+45;4;Expedientes de capacitaciones
+46;4;Expedientes de concursos laborales
+47;4;Expedientes de evaluación del desempeño
+48;4;Expedientes de Comités y comisiones internas
+49;4;Expedientes laborales
+50;4;Normativas del recurso humano
+51;4;Registro de asistencias
+52;4;Registro de constancias
+53;4;Registro de retenciones
+54;4;Registro de nóminas
+55;4;Registro de prestaciones laborales
+56;4;Registro municipal de la carrera administrativa
+57;5;Balance general
+58;5;Comprobantes del fondo circulante
+59;5;Estados financieros
+60;5;Evaluaciones
+61;5;Flujos de caja
+62;5;Informes
+63;5;Libros contables
+64;5;Nóminas
+65;5;Notas de requisición
+66;5;Órdenes de compra
+67;5;Órdenes de pago
+68;5;Recibos de ingresos tributarios
+69;5;Recibos de ingresos no tributarios
+70;5;Registros contables
+71;5;Remesas bancarias
+72;5;Solicitudes de créditos
+73;6;Expedientes de formulación presupuestaria
+74;6;Expedientes de modificaciones presupuestarias
+75;7;Arqueos de caja
+76;7;Cuentas bancarias
+77;7;Memorias
+78;7;Registros de ingresos
+79;7;Registros de egresos
+80;7;Registros de caja
+81;7;Solicitudes de pago
+82;8;Expedientes clínicos
+83;8;Expedientes de programas de salud municipal
+84;8;Inventarios de medicamentos
+85;8;Registros de entrega de medicamentos
+86;9;Expedientes de control de establecimientos
+87;9;Expedientes de control de espectáculos públicos
+88;10;Expedientes de actividades culturales
+89;10;Expedientes de eventos deportivos
+90;10;Expedientes de festejos patronales y cívicos
+91;10;Libros de matrícula de imprentas
+92;10;Planes de desarrollo cultural
+93;10;Planes de desarrollo deportivo
+94;10;Remesas de uso de instalaciones deportivas municipales
+95;10;Solicitudes de préstamo de instalaciones deportivas
+96;11;Libros de actas de remate de terrenos baldíos, ejidales o comunales
+97;11;Libros de registro de predios rústicos
+98;11;Planes de desarrollo agropecuario
+99;12;Expedientes de obras municipales
+100;12;Expedientes de permisos de obras
+101;12;Expedientes de publicidad comercial urbana
+102;13;Control de puestos fijos
+103;13;Cuentas de locatarias
+104;13;Patentes de vendedores ambulantes
+105;13;Remesas de tiquetes de mercado
+106;13;Registro de arrendatarios o locatarios
+107;13;Tiquetes de mercado
+108;14;Expedientes de asociaciones comunales
+109;14;Expedientes de becas
+110;14;Expedientes de organizaciones vecinales
+111;14;Libros de solicitudes de promoción social
+112;14;Planes de promoción social
+113;15;Base de datos de contribuyentes
+114;15;Expedientes de cobro y recuperación de mora
+115;15;Informes catastrales tributarios
+116;15;Libros de registro de establecimientos
+117;15;Mapas y planos
+118;16;Certificaciones de cédulas
+119;16;Escrituras de identidad
+120;16;Fichas de cédulas de identidad personal
+121;16;Índice de carnets de minoridad
+122;16;Fichas de carnet de minoridad
+123;17;Certificaciones
+124;17;Diligencias matrimoniales
+125;17;Índices
+126;17;Informes de defunciones
+127;17;Libros de registro
+128;17;Ejecutorias
+129;17;Expedientes de estados civiles subsidiarios
+130;17;Expedientes de rectificaciones
+131;17;Expedientes del régimen patrimonial del matrimonio
+132;17;Expedientes de reposición por cambio de estado civil
+133;17;Reconocimientos
+134;18;Estrategias ambientales
+135;18;Expedientes de acueductos y alcantarillados
+136;18;Expedientes de aseo de vías y disposición final de basuras
+137;18;Expedientes de control de cementerios municipales
+138;18;Expedientes de diagnóstico ambiental
+139;18;Expedientes de farmacias y laboratorios clínicos
+140;18;Expedientes de reuniones de la Comisión Municipal de Protección Civil y Mitigación de Desastres
+141;18;Expedientes de servicios funerarios
+142;18;Libros de registro de cementerios
+143;18;Libros de títulos de puestos de cementerios
+144;18;Licencias forestales
+145;18;Permisos de enterramiento
+146;18;Refrendas anuales de puestos de cementerios
+147;18;Reglamento interno de cementerios
+148;18;Planes ambientales
+149;18;Planes de Protección Civil y Mitigación de Desastres
+150;18;Políticas ambientales
+151;19;Instrumentos de control de la policía municipal
+152;19;Juicios contravencionales
+153;20;Actas de transferencia de marcas y fierros
+154;20;Cartas de transacciones de venta de ganado
+155;20;Contratos de compraventa de ganado vacuno
+156;20;Estadísticas de ganado
+157;20;Expedientes de refrenda de marca de herrar ganado
+158;20;Guías de conducción de ganado mayor
+159;20;Informes a la Oficina de Marcas y Fierros del Ministerio de Agricultura y Ganadería
+160;20;Inspecciones de ganado post mortem
+161;20;Libros de marcas y fierros
+162;20;Registro de boletos de destace
+163;20;Registro de nueva marca de herrar ganado
+164;20;Solicitudes de matrículas de fierros
+165;20;Tomas de razón de matrículas de destazadores y comerciantes de ganados
+166;20;Visto bueno para la venta de semovientes
+167;21;Expedientes de licencias de instalación y funcionamiento
+168;21;Instrumentos de control de estacionamientos y terminales
+169;22;Actividades de promoción turística
+170;22;Planes de desarrollo turístico
